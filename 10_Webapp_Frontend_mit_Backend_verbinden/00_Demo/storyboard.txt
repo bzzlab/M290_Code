@@ -1,0 +1,12 @@
+### Webapp: Frontend mit Backend verbinden
+0. Ausgangssituation: Client vom Register-Server
+1. Aktualisieren der Eingabe-Elemente (index.html)
+2a. Aktualisieren der Validierungen der Eingabe-Elemente (validate-input.js)
+2b. Nach der Validierungen, Daten an den Server senden.
+    Verschiedene Varianten (validate-input.js)
+3. Hauptfunktion fetch zum Senden und Empfangen
+    von Daten vom Server (network.js)
+4. Testen der Umsetzung (Browser)
+
+Aufgabe: Fehlende Eingabe-Felder (inkl. Validierung) hinzufügen
+Siehe Code-Kommentare, welche mit 'Aufgabe:' beginnen.
