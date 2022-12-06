@@ -8,4 +8,4 @@ Author: daniel.garavaldi@bzz.ch
 ### Modul 290, Teil 12 (Repetition)
 #### Tools
 
-<img src="draws/M290_12-Tools.svg"/>
+<img src="draws/M290_12-Tools.svg" width="80%" height=auto/>
