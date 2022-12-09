@@ -7,21 +7,21 @@ Author: daniel.garavaldi@bzz.ch
 
 ### Datenbank
 Leitfrage: Womit kann ich auf eine Datenbank zugreifen, damit 
-ich die Datenbank verwalten, abfragen und mutieren kann?
+ich die Datenbank verwalten, abfragen und mutieren kann?<br/>
 <img src="draws/Zugriff_DB.png" width="60%" height=auto />
 
 ### Client, Server, Datenbank
-Leitfrage: Wie sind Client, Webserver und Datenbank miteinander verbunden?
+Leitfrage: Wie sind Client, Webserver und Datenbank miteinander verbunden?<br/>
 <img src="draws/Client-Server-DB.png" width="60%" height=auto />
 
 ### CRUD-Operatonen
 Leitfrage: Welche CRUD-Operationen werden mit SQL für die Datenverwaltung,
-SQL für die Datenbankstruktur und für die REST-API abgedeckt?
+SQL für die Datenbankstruktur und für die REST-API abgedeckt?<br/>
 <img src="draws/Grundoperationen.png" width="60%" height=auto />
 
 ### Tools
 Leitfrage: Welche Tools (Software) werden wozu verwendet und welche grundlegende
-Technologien werden dafür verwendet?
+Technologien werden dafür verwendet?<br/>
 <img src="draws/Tools.png" width="60%" height=auto />
 
 
