@@ -6,6 +6,9 @@ Mehr Informationen zum Modul siehe Webseite [ict.bzzlab.ch](http://ict.bzzlab.ch
 Author: daniel.garavaldi@bzz.ch
 
 ### Modul 290, Teil 12 (Repetition)
-#### Tools
 
-<img src="draws/M290_12-Tools.svg" width="60%" height=auto/>
+<img src="draws/Client-Server-DB.svg" width="60%" height=auto />
+<img src="draws/Grundoperationen.svg" width="60%" height=auto />
+<img src="draws/Repo.svg" width="60%" height=auto />
+<img src="draws/Tools.svg" width="60%" height=auto />
+<img src="draws/Zugriff_DB.svg" width="60%" height=auto />
