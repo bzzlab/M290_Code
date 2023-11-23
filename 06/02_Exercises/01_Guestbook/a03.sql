@@ -4,8 +4,6 @@ Tasks: Create query with joins. Instruction see below
 
 use guestbookdb;
 -- 1. Geben Sie Namen, Vornamen und deren Login-Daten (Email, Passwort) aller Benutzer aus.
-select * from login;
-select * from benutzer;
 
 -- 2. Geben Sie die ID der Login-Tabelle, dann Email, Name und Vorname aller Benutzer aus.
 
