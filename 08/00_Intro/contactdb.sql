@@ -47,9 +47,9 @@ CREATE TABLE `customer` (
 
 insert into customer (email, firstName, registered)
 values
-    ("hmuster@beispiel.ch","Hans", "2024-01-08"),
-    ("anna.muster@beispiel.ch","Anna", "2024-01-09"),
-    ("fritz.muster@exmaple.com","Fritz", "2024-01-09");
+    ('hmuster@beispiel.ch','Hans', '2024-01-08'),
+    ('anna.muster@beispiel.ch','Anna', '2024-01-09'),
+    ('fritz.muster@exmaple.com','Fritz', '2024-01-09');
 
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
