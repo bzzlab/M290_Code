@@ -1,0 +1,20 @@
+0. Ausgangssituation: Register-Server
+1. DB: Datenbank mit einer Tabelle erstellen
+2. SERVER: UserRepository und aufrufenden Code entfernen
+3a. SERVER: DB- und Web-Konfiguration
+3b. SERVER: DB-Verbindung exportieren
+4. SERVER: Pfade erstellen (API)
+5a. SERVER: create/Insert erstellen
+5b. CLIENT: Testen der API mit Postman
+6a. SERVER: findAll, Update erstellen
+6b. CLIENT: Testen der API mit Postman
+
+Aufgabe: Fehlende CRUD-Operation hinzufügen
+1a. SERVER: CRUD erweitern mit findOne, deleteAll, deleteById
+1b. CLIENT: Testen der API mit Postman
+
+Aufgabe: Tabelle erweitern
+1. DB: Tabelle mit zusätzlichen Attributen erweitern
+2a. SERVER: Controller und Model erweitern/anpassen
+2b. SERVER: Validierungen anpassen/erweitern
+2c. CLIENT: Testen der API mit Postman
